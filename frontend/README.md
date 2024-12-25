@@ -11,5 +11,11 @@ Currently, two official plugins are available:
 
 1. Project Setup ( react-vite , router-dom , tailwindcss,toastify)
 2. create Pages and  Routing
-3. 
+3. Home page
+4. collections page
+5. search functionality
+6. filtering and sorting functionalities
+7. product compatible view
+8. <==>And , Work is Going On ... <==>
+
 
